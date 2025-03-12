@@ -27,7 +27,7 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/flutter-firebase-crud.git
+   git clone https://github.com/yashdubeyy/notesApp.git
    cd flutter-firebase-crud
 2. Install Dependencies
 
